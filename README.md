@@ -157,7 +157,3 @@ In the final stages, you will apply all your knowledge to develop a complete gam
 - Plan and develop a complete game project from start to finish.
 - Test, debug, and optimize the game for release.
 - Document your project thoroughly and create presentation materials.
-
----
-
-Feel free to explore the exercises and projects in this repository. Good luck on your C++ and Unreal Engine journey!
